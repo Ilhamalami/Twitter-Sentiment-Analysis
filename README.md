@@ -8,9 +8,9 @@ This project requires **Python** and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [seaborn]
-- [tweepy]
-- [selenium]
+- [seaborn](https://seaborn.pydata.org/installing.html)
+- [tweepy](https://www.tweepy.org/)
+- [selenium](https://www.seleniumhq.org/docs/)
 - [wordcount]
 
 
